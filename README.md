@@ -9,6 +9,10 @@ caso tenha ocorrido algum grenal o programa solicita 2 numeros inteiros represen
 podendo ocorrer infinitos grenais ao final de todos os confrontos o progama apresenta quantas partidas cada time ganhou
 e a quantidade de empates. Apresentando ao final qual time venceu mais o clássico.
 
+
+
+
+
 Vinicius Steiner Wittler beecrowd | 2139 - Merge
 
 Pedrinho is a boy who loves family parties, especially Christmas, when he wins gifts from his parents and grandparents. This year, his father promised him a PS4, but only if Pedrinho could solve some challenges throughout the year, one of them, writing a program that calculates how many days are left until Christmas.
@@ -18,3 +22,9 @@ However, Pedrinho is only 9 years old and knows nothing about programming, but h
 
 
 
+Diego Graudenz 
+Enunciado beecrowd 1759
+
+Santa Claus is playing with his elves to entertain them during the Christmas Eve. The game consists of the elves writing numbers on pieces of paper and place on the cap of Santa Claus. After all finished to put the numbers, Santa draws a number and that number is how many "Ho" he should say.
+
+Your job is to help Santa Claus by making a problem that shows all the "Ho" that he should speak given the number drawn.

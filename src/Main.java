@@ -50,7 +50,7 @@ public class Main {
         //}
     
         //vini
-        Scanner scanner = new Scanner(System.in);
+       /* Scanner scanner = new Scanner(System.in);
         while (scanner.hasNextLine()) {
             String[] input = scanner.nextLine().split(" ");
             int month = Integer.parseInt(input[0]);
@@ -72,5 +72,21 @@ public class Main {
         }
 
         scanner.close();
+ */
+
+            Scanner sc = new Scanner (System.in);
+            int n = sc.nextInt();
+
+            for(int i= 0 ; i < n; i++){
+                if( i==n-1){
+                    System.out.println("Ho!");
+                    
+                }else{
+                    System.out.println("Ho");
+                }
+            }
+            System.out.println();
+    
+    
     }
 }
